@@ -8,5 +8,6 @@ namespace ManualProxyCreation.Core.Entities
 {
     internal class SourceFile
     {
+
     }
 }
